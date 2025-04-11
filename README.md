@@ -1,2 +1,0 @@
-# Raag
-RAAG PROJECT
